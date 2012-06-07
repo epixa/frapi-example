@@ -1,0 +1,3 @@
+[submodule "lib/frapi"]
+	path = lib/frapi
+	url = git://github.com/frapi/frapi.git
