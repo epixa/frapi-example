@@ -1,5 +1,5 @@
 <?php
-require_once CUSTOM_LIBRARY . DIRECTORY_SEPARATOR . 'markdown/markdown_extended.php';
+require_once CUSTOM_LIBRARY . '/php-markdown-extra-extended/markdown_extended.php';
 
 function _makeAnchor($string)
 {

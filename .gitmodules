@@ -1,3 +1,6 @@
 [submodule "lib/frapi"]
 	path = lib/frapi
 	url = git://github.com/frapi/frapi.git
+[submodule "lib/php-markdown-extra-extended"]
+	path = lib/php-markdown-extra-extended
+	url = git://github.com/egil/php-markdown-extra-extended.git
